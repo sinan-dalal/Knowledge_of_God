@@ -1,0 +1,31 @@
+# DEV
+.env
+.env.backup
+.idea
+.php_cs.cache
+.phpstorm.meta.php
+_ide_helper*.php
+.vscode
+.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.phpunit.result.cache
+
+# BACK END
+/storage/*.key
+/vendor
+
+# FRONT END
+/node_modules
+/public/hot
+/public/storage
+/public/css/*
+/public/fonts/*
+/public/images/*
+/public/js/*
+/public/static/*
+/public/vendor/*
+/public/mix-manifest.json
+/resources/views/vendor/
